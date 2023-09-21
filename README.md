@@ -1,1 +1,1 @@
-# BNN
+while true do if () then _G.antibanananana;if (_G.antibanananana==true) then for in pairs(game:GetService("Workspace"):GetDescendants()) do if IsA("Part") then if (Name=="BananaPeel") then CanTouch=false
